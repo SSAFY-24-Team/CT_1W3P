@@ -4,7 +4,7 @@
 
 ## 🖐 Member  
 - [강수민](https://github.com/Jade-Good)
-- [김영기](https://github.com/park-yeong-ki)
+- [박영기](https://github.com/park-yeong-ki)
 - [유지원](https://github.com/jiwoni1)
 - [송동호](https://github.com/songdongho123)
 
@@ -25,7 +25,7 @@
     - 1
     - 2
     - 3
-- 김영기
+- 박영기
     - 1
     - 2
     - 3
